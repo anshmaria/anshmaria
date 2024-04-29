@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning WEB DEV, C & C++
 - 💞️ I’m looking to collaborate on webdev projects. 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Hudtle Hard!
+- ⚡ Fun fact: Hustle Hard!
 
 <!---
 anshmaria/anshmaria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
